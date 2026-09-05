@@ -2,6 +2,8 @@
 
 A hands-on deep learning project that explores historical stock data and builds an LSTM (Long Short-Term Memory) neural network in PyTorch to predict next-day closing prices, using Apple (AAPL) as the primary case study.
 
+![Prediction results](assets/appl.png)
+
 ## 🎯 Project Goal
 
 Learn how to build a stock price prediction model using an LSTM neural network in PyTorch. This project practices the full pipeline — pulling data, preprocessing/scaling it, exploratory analysis, building and training an LSTM model, and evaluating its predictions — as a foundation for time series forecasting and stock analysis skills.
